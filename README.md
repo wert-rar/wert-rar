@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wert-rar
 - 👀 I’m interested in python, C#
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning AI, TG-Bots
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
