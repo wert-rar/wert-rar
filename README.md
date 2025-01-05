@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @wert-rar
-- 👀 I’m interested in python, C#
-- 🌱 I’m currently learning AI, TG-Bots
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there! I'm @wert-rar
 
-<!---
-wert-rar/wert-rar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/wertic)
+
+## 🚀 About Me
+- 👨‍🎓 **Student:** Information Security
+- 👀 **Interests:** Python, C#, JavaScript
+- 🌱 **Currently Learning:** Artificial Intelligence (AI), Telegram Bots
+- 💞️ **Looking to Collaborate On:** AI, Machine Learning (ML)
+- 🔨 **Working On:** [3X-UI python client](https://github.com/wert-rar/ThreeX-Python-Client) *(link coming soon!)*
+
+## 🔧 Technologies & Tools
+- **Languages:** Python, C#, JavaScript, C, C++
+- **Frameworks:** TensorFlow, PyTorch, Flask, Django
+- **Tools:** Git, Docker, Jupyter Notebooks, Unity
+
+## 📫 Connect with Me
+- **GitHub:** [@wert-rar](https://github.com/wert-rar)
+- **Email:** wert-rar@mail.ru
+
